@@ -1,0 +1,138 @@
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.main-section{}
+.main-section p {
+    color: rgb(189, 184, 184);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.setings-div{}
+
+
+
+/*i-one*/
+
+.i-one{
+    transition: .3s;
+}
+.i-one a{
+    transition: .3s;
+}
+
+span{
+    margin-top: 7px;
+    margin-left: 6px;
+}
+
+.i-one a span {
+    height: 38px;
+    width: 38px;
+    line-height: 38px;
+    background: #d8d5d5;
+    font-size: 22px;
+    border-radius: 50%;
+}
+.i-one a p {
+    margin-left: 20px;
+    margin-top: 5px;
+    color: #000;
+    font-weight: 600;
+}
+.i-one a span i {
+    margin: 7px;
+}
+
+/*i-two*/
+
+
+.i-two{
+    transition: .3s;
+}
+.i-two a{
+    
+    transition: .3s;
+}
+.i-two a span {
+    height: 38px;
+    width: 38px;
+    line-height: 38px;
+    background: #d8d5d5;
+    font-size: 22px;
+    border-radius: 50%;
+}
+.i-two a p {
+    margin-left: 20px;
+    margin-top: 5px;
+    color: #000;
+    font-weight: 600;
+}
+.i-two a span i {
+    margin: 7px;
+}
+
+/*i-three*/
+
+.i-three{
+    transition: .3s;
+}
+.i-three a{
+    
+    transition: .3s;
+}
+.i-three a span {
+    height: 38px;
+    width: 38px;
+    line-height: 38px;
+    background: #d8d5d5;
+    font-size: 22px;
+    border-radius: 50%;
+}
+.i-three a p {
+    margin-left: 20px;
+    margin-top: 5px;
+    color: #000;
+    font-weight: 600;
+}
+.i-three a span i {
+    margin: 7px;
+}
+
+/**/
+.i-one a:hover {
+    background: #ddd;
+    border-radius: 6px;
+}
+
+.i-two a:hover {
+    background: #ddd;
+    border-radius: 6px;
+}
+
+.i-three a:hover {
+    background: #ddd;
+    border-radius: 6px;
+}
+
+/**/
+.i-one a:hover span{
+    background: #5677fc;
+    color: #ddd;
+}
+
+.i-two a:hover span{
+    background: #5677fc;
+    color: #ddd;
+}
+
+.i-three a:hover span{
+    background: #5677fc;
+    color: #ddd;
+}
